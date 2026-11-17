@@ -51,7 +51,7 @@ export const skillGroups = [
   {
     key: 'backend',
     title: 'Backend',
-    items: ['Python', 'FastAPI', 'Django', 'Ruby on Rails', 'MongoDB', 'SQL', 'Redis'],
+    items: ['Python', 'FastAPI', 'Django', 'Pytest', 'Celery', 'RebitMQ', 'Ruby on Rails', 'MongoDB', 'SQL', 'Redis'],
   },
   {
     key: 'frontend',
