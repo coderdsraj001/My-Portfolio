@@ -51,12 +51,12 @@ export const skillGroups = [
   {
     key: 'backend',
     title: 'Backend',
-    items: ['Python', 'FastAPI', 'Django', 'Ruby on Rails', 'MongoDB', 'SQL / PostgreSQL', 'Redis', 'Sidekiq'],
+    items: ['Python', 'FastAPI', 'Django', 'Ruby on Rails', 'MongoDB', 'SQL', 'Redis'],
   },
   {
     key: 'frontend',
     title: 'Frontend',
-    items: ['React.js', 'TypeScript', 'Redux', 'Bootstrap', 'HTML5 / CSS3'],
+    items: ['React.js', 'TypeScript', 'Redux', 'Bootstrap', 'HTML5'],
   },
   {
     key: 'ai',
@@ -76,7 +76,7 @@ export const experience = [
     role: 'Python Developer / Full Stack Developer',
     company: 'Grand View Research',
     location: 'Jaipur, Rajasthan',
-    tags: ['FastAPI', 'React', 'TypeScript', 'MongoDB', 'Redis', 'Generative AI'],
+    tags: ['FastAPI', 'Pytest', 'React', 'TypeScript', 'MongoDB', 'Celery', 'RebitMq', 'Redis', 'Generative AI'],
     bullets: [
       'Engineer high-throughput microservices and asynchronous APIs using FastAPI and Python, with scalable MongoDB document stores and Redis-optimized queuing.',
       'Build clean, responsive, type-safe UI components with React, TypeScript and Redux for predictable application state.',
@@ -130,7 +130,7 @@ export const projects = [
     title: 'Keystone — AI Report Generation Platform',
     description:
       'An AI-powered platform for generating business reports and data visualizations, with scalable APIs for document processing and automated chart generation.',
-    tags: ['Python', 'FastAPI', 'React', 'MongoDB', 'OpenAI'],
+    tags: ['Python', 'Pytest', 'Celery', 'RabbitMq', 'Redis', 'FastAPI', 'React', 'MongoDB', 'OpenAI'],
     features: [
       'Designed scalable APIs for document processing and automated chart generation',
       'Integrated OpenAI APIs for AI-assisted content generation',
@@ -143,7 +143,7 @@ export const projects = [
     title: 'Gift Card Marketplace',
     description:
       'A secure online marketplace for buying and selling gift cards, with integrated payment processing and admin tooling.',
-    tags: ['Django', 'PostgreSQL', 'Docker'],
+    tags: ['Python, 'Django', 'SQL', 'Docker', 'jinja templating],
     features: [
       'Built REST APIs and integrated payment gateway services',
       'Implemented user authentication, product management and an admin dashboard',
