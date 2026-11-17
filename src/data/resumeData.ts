@@ -66,7 +66,7 @@ export const skillGroups = [
   {
     key: 'tools',
     title: 'Tools & Workflow',
-    items: ['Docker', 'Git', 'RSpec', 'REST APIs', 'CI/CD'],
+    items: ['Docker', 'Git', 'RSpec', 'REST APIs'],
   },
 ]
 
