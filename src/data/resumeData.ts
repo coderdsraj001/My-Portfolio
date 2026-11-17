@@ -103,7 +103,7 @@ export const experience = [
     role: 'Junior Backend Developer',
     company: 'Rvj Infotech',
     location: 'Jaipur, Rajasthan',
-    tags: ['Ruby on Rails', 'RSpec', 'Sidekiq', 'Redis'],
+    tags: ['Ruby', 'Ruby on Rails', 'RSpec', 'Redis'],
     bullets: [
       'Developed web applications using Ruby on Rails, building reusable components and optimizing ActiveRecord queries for performance.',
       'Implemented user authentication and role-based access control.',
@@ -143,7 +143,7 @@ export const projects = [
     title: 'Gift Card Marketplace',
     description:
       'A secure online marketplace for buying and selling gift cards, with integrated payment processing and admin tooling.',
-    tags: ['Python, 'Django', 'SQL', 'Docker', 'jinja templating],
+    tags: ['Python, 'Django', 'SQL', 'Docker', 'jinja templating'],
     features: [
       'Built REST APIs and integrated payment gateway services',
       'Implemented user authentication, product management and an admin dashboard',
