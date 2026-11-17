@@ -76,7 +76,7 @@ export const experience = [
     role: 'Python Developer / Full Stack Developer',
     company: 'Grand View Research',
     location: 'Jaipur, Rajasthan',
-    tags: ['FastAPI', 'Pytest', 'React', 'TypeScript', 'MongoDB', 'Celery', 'RebitMq', 'Redis', 'Generative AI'],
+    tags: ['Python','FastAPI', 'Pytest', 'React', 'TypeScript', 'MongoDB', 'Celery', 'RebitMq', 'Redis', 'Generative AI'],
     bullets: [
       'Engineer high-throughput microservices and asynchronous APIs using FastAPI and Python, with scalable MongoDB document stores and Redis-optimized queuing.',
       'Build clean, responsive, type-safe UI components with React, TypeScript and Redux for predictable application state.',
@@ -89,7 +89,7 @@ export const experience = [
     role: 'Python Developer',
     company: 'Gohashinclude Pvt. Ltd.',
     location: 'Jaipur, Rajasthan',
-    tags: ['Django', 'REST APIs', 'WooCommerce', 'Shopify'],
+    tags: ['Python', 'Django', 'REST APIs', 'WooCommerce', 'Shopify'],
     bullets: [
       'Developed and maintained scalable web applications using Django and Python.',
       'Designed and implemented RESTful APIs for frontend-backend communication.',
@@ -116,7 +116,7 @@ export const experience = [
     role: 'Trainee Engineer (Internship)',
     company: 'Rvj Infotech',
     location: 'Jaipur, Rajasthan',
-    tags: ['Ruby on Rails', 'Bootstrap', 'PostgreSQL'],
+    tags: ['Ruby', 'Ruby on Rails', 'Bootstrap', 'SQL'],
     bullets: [
       'Developed 3–4 full stack web projects using Ruby on Rails, gaining hands-on experience with the framework and MVC architecture.',
       'Built responsive UIs with Bootstrap and integrated them with backend APIs.',
@@ -143,7 +143,7 @@ export const projects = [
     title: 'Gift Card Marketplace',
     description:
       'A secure online marketplace for buying and selling gift cards, with integrated payment processing and admin tooling.',
-    tags: ['Python, 'Django', 'SQL', 'Docker', 'jinja templating'],
+    tags: ['Python', 'Django', 'SQL', 'Docker', 'jinja templating'],
     features: [
       'Built REST APIs and integrated payment gateway services',
       'Implemented user authentication, product management and an admin dashboard',
